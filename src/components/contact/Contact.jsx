@@ -8,11 +8,11 @@ export default function Contact({ contact, onDelete }) {
 
             <div className={css.contact}>
                 <div className={css.line}>
-                    &#128222;
+                    &#128100;
                     {name}
                 </div>
                 <div className={css.line}>
-                    &#128100;
+                    &#128222;
                     {number}
                 </div>
             </div>
